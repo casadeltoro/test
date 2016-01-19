@@ -1,0 +1,32 @@
+@font-face{
+	font-family:"PT Sans Narrow";
+	src:url(../fonts/PT_Sans_Narrow.ttf);
+}
+@font-face{
+	font-family:"PT_Sans-Caption-Bold";
+	src:url(../fonts/PT_Sans-Caption-Web-Bold.ttf);
+}
+@font-face{
+	font-family:"PT_Sans-Caption";
+	src:url(../fonts/PT_Sans-Caption-Web-Regular.ttf);
+}
+@font-face{
+	font-family:"PT_Sans-Narrow-Web-Regular";
+	src:url(../fonts/PT_Sans-Narrow-Web-Regular.ttf);
+}
+@font-face{
+	font-family:"PT_Sans-Web-Bold";
+	src:url(../fonts/PT_Sans-Web-Bold.ttf);
+}
+@font-face{
+	font-family:"PT_Sans-Web-BoldItalic";
+	src:url(../fonts/PT_Sans-Web-BoldItalic.ttf);
+}
+@font-face{
+	font-family:"PT_Sans-Web-Italic";
+	src:url(../fonts/PT_Sans-Web-Italic.ttf);
+}
+@font-face{
+	font-family:"PT_Sans-Web-Regular";
+	src:url(../fonts/PT_Sans-Web-Regular.ttf);
+}
